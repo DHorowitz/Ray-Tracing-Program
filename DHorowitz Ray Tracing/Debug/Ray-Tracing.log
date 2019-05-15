@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ray-tracing.cpp
+c:\users\scivis\desktop\dhorowitz ray tracing\ray-tracing.cpp(470): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\scivis\desktop\dhorowitz ray tracing\ray-tracing.cpp(471): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\scivis\desktop\dhorowitz ray tracing\ray-tracing.cpp(472): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Ray-Tracing.vcxproj -> C:\Users\scivis\Desktop\DHorowitz Ray Tracing\Debug\Ray-Tracing.exe
